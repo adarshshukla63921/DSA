@@ -1,4 +1,4 @@
-package Recursion.PowerSet.java;
+package powerset.java;
 
 import java.util.*;
 
