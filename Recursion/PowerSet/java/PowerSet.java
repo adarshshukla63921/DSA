@@ -1,4 +1,4 @@
-package powerset.java;
+package powerSet.java;
 
 import java.util.*;
 
